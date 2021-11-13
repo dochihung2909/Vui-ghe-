@@ -253,7 +253,7 @@
     background: rgba(0,0,0,0.6); 
     text-align: center;
     line-height: 7.5rem;
-    padding-left: 10px;
+/*     padding-left: 10px; */
     font-size: 4rem;    
 }  
 
@@ -353,7 +353,7 @@
     background: rgba(0,0,0,0.6); 
     text-align: center;
     line-height: 7.5rem;
-    padding-left: 10px;
+/*     padding-left: 10px; */
     font-size: 4rem;  
     box-shadow: 0 0 10px #fff;
     display: none;  
